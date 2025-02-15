@@ -18,5 +18,9 @@
   "devDependencies": {
     "@playwright/test": "^1.50.1",
     "@types/node": "^22.13.1"
+  },
+  "dependencies": {
+    "bullmq": "^5.40.5",
+    "pg-promise": "^11.10.2"
   }
 }
